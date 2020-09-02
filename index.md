@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 20 Questions Bot BETA
 
 You can use the [editor on GitHub](https://github.com/20QuestionsBot/pageForBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
