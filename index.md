@@ -1,6 +1,6 @@
 ## 20 Questions Bot BETA
 
-You can use the [editor on GitHub](https://github.com/20QuestionsBot/pageForBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The 20 Questions bot is a bot that allows you and your friends to play the game of 20 Questions!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
