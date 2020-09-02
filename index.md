@@ -11,7 +11,7 @@ _Rules can be changed by the host of the game or server owner._
 ```markdown
 How to play:
 1. Someone starts a game by using the start command.
-!(https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
+![alt](https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
 2. The person who started the game telling the person what the word was that they chose and what reactions mean what.
 3. 
 
@@ -19,7 +19,7 @@ How to play:
 
 [Link](url) and !
 ```
-
+![alt](https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
