@@ -1,19 +1,16 @@
-## 20 Questions Bot BETA
+# 20 Questions Bot BETA
 
 The 20 Questions bot is a bot that allows you and your friends to play the game of 20 Questions!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rememer that this bot is still in the beta phase. Go to the official discord server if you have any questions.
 
-### Markdown
+## Rules and Commands of the game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Rules can be changed by the host of the game or server owner._
 
 ```markdown
-Syntax highlighted code block
+Original game rules:
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
