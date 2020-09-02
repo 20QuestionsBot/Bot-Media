@@ -11,13 +11,13 @@ _Rules can be changed by the host of the game or server owner._
 ```markdown
 How to play:
 1. Someone starts a game by using the start command.
-[Image](src)
+!(https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
 2. The person who started the game telling the person what the word was that they chose and what reactions mean what.
 3. 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and !
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
