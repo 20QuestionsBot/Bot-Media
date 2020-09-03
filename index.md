@@ -8,24 +8,11 @@ _Rememer that this bot is still in the beta phase. Go to the official discord se
 
 _Rules can be changed by the host of the game or server owner._
 
-```markdown
-How to play:
-1. Someone starts a game by using the start command.
-![alt](https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
-2. The person who started the game telling the person what the word was that they chose and what reactions mean what.
-3. 
+### How to Play:
+1. `Someone starts a game by using the start command.`
+  - ![](https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
+2. `The person who started the game will get a DM telling them what their word was what reactions mean what.`
+  - :white_check_mark: = yes, :x: = no, :man_shrugging: = you don't know, :crown: = the person geussed your word.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and !
-```
-![alt](https://i.giphy.com/media/lMmMvZWyqjj1y171uH/giphy.webp)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20QuestionsBot/pageForBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
